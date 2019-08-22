@@ -1,6 +1,9 @@
 import tweepy
 from textblob import TextBlob
 
+
+# please use your own authentication details, as this are invalid
+
 consumer_key = "cKMGlwVjwVMtOuxzi9S2PyksY"
 consumer_secret = "5Cw0cj0cd0LmhB8ObBN2HcdfrwrqpqqjU4GbX1IeQ2u9cAD0hn"
 
